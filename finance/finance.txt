@@ -1,1 +1,2 @@
+Defect 3 is fixed
 First commit
